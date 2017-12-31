@@ -1,0 +1,13 @@
+02012017ChitturLentilsExtract whistle count is 12
+10-01-2017LentilsExtract whistle count is 10
+10012017LentilsExtract whistle count is 10
+11012017greenmoongdalExtract whistle count is 15
+12012017kalachannaExtractnew whistle count is 19
+13012017Koduvayoorvegetablesandlentils whistle count is 11
+22122016PalakkadCornExtract whistle count is 3
+25thPalakkadvegetablesandlentilsExtract_toolow_amplitude whistle count is 4
+26-12-2016PalakkadRiceExtract whistle count is 4
+31122016ChitturWheatRiceextract whistle count is 4
+31122016ChitturvegetableExtract whistle count is 13
+31122016RiceChitturExtract whistle count is 14
+ChitturLentilsVegetables30122016Extract whistle count is 7

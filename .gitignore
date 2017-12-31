@@ -1,0 +1,4 @@
+*.mat
+*.wav
+!SVMModel.mat
+!SVMModel_simulink.mat
